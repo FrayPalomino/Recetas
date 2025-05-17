@@ -5,7 +5,7 @@ const platosPeruanos = [
     nombre: "Ceviche",
     categoria: "entrada",
     descripcion: "El plato bandera del Perú, preparado con pescado fresco marinado en limón.",
-    imagen: "https://drive.google.com/uc?export=view&id=18rxshXKolLXi7fpuVRZVGmDJq8qdn4y3",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498928/ceviche_klf6yy.jpg",
     ingredientes: [
       "500g de pescado blanco fresco (corvina, lenguado o mero)",
       "1 cebolla roja cortada en juliana",
@@ -34,7 +34,7 @@ const platosPeruanos = [
     nombre: "Lomo Saltado",
     categoria: "principal",
     descripcion: "Deliciosa fusión de la cocina peruana y china, con carne de res salteada con verduras.",
-    imagen: "https://drive.google.com/uc?export=view&id=1f6PYbk3GUGIJn9ut-BtZh6x1BXtYXzYZ",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499014/lomo_bllwve.jpg",
     ingredientes: [
       "500g de lomo de res cortado en tiras",
       "2 cebollas rojas cortadas en gajos",
@@ -67,7 +67,7 @@ const platosPeruanos = [
     nombre: "Ají de Gallina",
     categoria: "principal",
     descripcion: "Cremoso guiso de pollo deshilachado en una salsa de ají amarillo y nueces.",
-    imagen: "https://drive.google.com/uc?export=view&id=1iYCOUvVEGdCRAQEt3cEEqlRmRUjM89jL",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499019/aji-gallina_cwonlh.jpg",
     ingredientes: [
       "1 gallina o pollo entero",
       "4 ajíes amarillos sin venas ni semillas",
@@ -103,7 +103,7 @@ const platosPeruanos = [
     nombre: "Causa Limeña",
     categoria: "entrada",
     descripcion: "Terrina fría de papa amarilla rellena de pollo, atún o mariscos.",
-    imagen: "https://drive.google.com/uc?export=view&id=1jXrUiA941LgEVZbRiq4zldJbFKd1TJ1e",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498922/causa_wglvzc.jpg",
     ingredientes: [
       "1kg de papas amarillas",
       "3 limones (jugo)",
@@ -133,7 +133,7 @@ const platosPeruanos = [
     nombre: "Anticuchos",
     categoria: "entrada",
     descripcion: "Brochetas de corazón de res marinadas en una salsa de ají panca y especias.",
-    imagen: "https://drive.google.com/uc?export=view&id=1sf3MxONZgcd5ixHOHcQunT4WzDmujxZU",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498923/anticuchos_k84g0l.jpg",
     ingredientes: [
       "1kg de corazón de res",
       "4 cucharadas de pasta de ají panca",
@@ -161,7 +161,7 @@ const platosPeruanos = [
     nombre: "Rocoto Relleno",
     categoria: "principal",
     descripcion: "Plato típico de Arequipa, consiste en rocotos rellenos de carne y gratinados con queso.",
-    imagen: "https://drive.google.com/uc?export=view&id=1z7jM2yuK-jnD4BIHB-LGpjW3Mut0auvt",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499019/rocoto_bfse96.jpg",
     ingredientes: [
       "6 rocotos grandes",
       "500g de carne molida de res",
@@ -196,7 +196,7 @@ const platosPeruanos = [
     nombre: "Arroz con Pato",
     categoria: "principal",
     descripcion: "Plato típico del norte del Perú, con pato cocido en cerveza negra y servido con arroz verde.",
-    imagen: "https://drive.google.com/uc?export=view&id=1rNbeXpP9GcsLIrVd13_l-jNnAv86SeWH",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498997/arroz-pato_psvwy9.jpg",
     ingredientes: [
       "1 pato entero cortado en presas",
       "3 tazas de arroz",
@@ -231,7 +231,7 @@ const platosPeruanos = [
     nombre: "Suspiro a la Limeña",
     categoria: "postre",
     descripcion: "Dulce tradicional limeño a base de manjar blanco y merengue.",
-    imagen: "https://drive.google.com/uc?export=view&id=10cttxjbv9DPUtYcI0Oe0sw8zNkC_JmQB",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498974/suspiro_kxvadr.jpg",
     ingredientes: [
       "1 lata de leche evaporada",
       "1 lata de leche condensada",
@@ -259,7 +259,7 @@ const platosPeruanos = [
     nombre: "Mazamorra Morada",
     categoria: "postre",
     descripcion: "Postre tradicional peruano elaborado con maíz morado y frutas.",
-    imagen: "https://drive.google.com/uc?export=view&id=1-oFRiCrxLkHyUUjMUsdYKLG6EkeI49ac",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498974/morada_rweqsg.jpg",
     ingredientes: [
       "500g de maíz morado",
       "2 manzanas peladas y picadas",
@@ -291,7 +291,7 @@ const platosPeruanos = [
     nombre: "Tacu Tacu",
     categoria: "principal",
     descripcion: "Plato tradicional peruano hecho con arroz y frijoles refritos, formando una tortilla.",
-    imagen: "https://drive.google.com/uc?export=view&id=11-02DvlgT6eQjvVgNviGrJr0NT_eGnQv",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499020/tacu-tacu_nzfmwa.jpg",
     ingredientes: [
       "2 tazas de frijoles canarios cocidos",
       "2 tazas de arroz cocido",
@@ -320,7 +320,7 @@ const platosPeruanos = [
     nombre: "Picarones",
     categoria: "postre",
     descripcion: "Dulce tradicional peruano similar a las donas, hecho con calabaza y camote.",
-    imagen: "https://drive.google.com/uc?export=view&id=1zUqXE7c1B3Q0QAXECJql5HjIhOxufAty",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498958/picarones_jlwyhg.jpg",
     ingredientes: [
       "500g de calabaza",
       "300g de camote naranja",
@@ -357,7 +357,7 @@ const platosPeruanos = [
     categoria: "entrada",
     descripcion:
       "Plato típico de Arequipa que consiste en papas sancochadas bañadas en una cremosa salsa de ají amarillo, huacatay, maní y queso, decorada con huevo duro y aceitunas.",
-    imagen: "https://drive.google.com/uc?export=view&id=1sWTPLIXvbCr9EGe18JkD19fZBBd-QVue",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498924/ocopa_nqjve5.jpg",
     ingredientes: [
       "4 ajíes mirasol secos",
       "2 ajíes amarillos frescos sin venas ni semillas",
@@ -388,7 +388,7 @@ const platosPeruanos = [
     nombre: "Sopa Criolla",
     categoria: "caldo",
     descripcion: "Deliciosa sopa peruana con fideos, carne y un toque de leche.",
-    imagen: "https://drive.google.com/uc?export=view&id=1hYiGMGIovG2ADUHDknKnfRjU-IYQniId",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499040/sopa-criolla_t8onza.jpg",
     ingredientes: [
       "250g de carne de res cortada en tiras finas",
       "200g de fideos cabello de ángel",
@@ -422,7 +422,7 @@ const platosPeruanos = [
     nombre: "Aguadito de Pollo",
     categoria: "caldo",
     descripcion: "Reconfortante sopa verde de pollo con arroz y verduras.",
-    imagen: "https://drive.google.com/uc?export=view&id=1MVYsH5asbW8etAzpji2-A0YF0EY_4Njg",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499039/aguadito_wqpcoa.jpg",
     ingredientes: [
       "1 pollo entero cortado en presas",
       "1 taza de arroz",
@@ -456,7 +456,7 @@ const platosPeruanos = [
     nombre: "Chicha Morada",
     categoria: "bebida",
     descripcion: "Refrescante bebida peruana hecha a base de maíz morado.",
-    imagen: "https://drive.google.com/uc?export=view&id=17CPGv618vt1l9RUxoPd7_xSyEvyIbooC",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499057/chicha-morada_rigvhh.jpg",
     ingredientes: [
       "1kg de maíz morado",
       "2 manzanas cortadas en trozos",
@@ -484,7 +484,7 @@ const platosPeruanos = [
     nombre: "Pisco Sour",
     categoria: "bebida",
     descripcion: "Cóctel emblemático del Perú a base de pisco, limón y clara de huevo.",
-    imagen: "https://drive.google.com/uc?export=view&id=1vnHpGAbMVCvoAz17AIeo4rkaH762I62Q",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499071/pisco-sour_itsku4.jpg",
     ingredientes: [
       "3 onzas de pisco",
       "1 onza de jarabe de goma o almíbar",
@@ -508,7 +508,7 @@ const platosPeruanos = [
     nombre: "Chicha de Jora",
     categoria: "bebida",
     descripcion: "Bebida ancestral andina fermentada a base de maíz jora, tradicional en la sierra peruana.",
-    imagen: "https://drive.google.com/uc?export=view&id=1sxfX4KbOfn24zy1ccxI0JxKvi1FIPNVh",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499064/chicha-jora_h4p8ka.jpg",
     ingredientes: [
       "500 g de maíz jora",
       "3 litros de agua",
@@ -530,7 +530,7 @@ const platosPeruanos = [
     nombre: "Limonada",
     categoria: "bebida",
     descripcion: "Refrescante bebida a base de jugo de limón, agua y azúcar, ideal para combatir el calor.",
-    imagen: "https://drive.google.com/uc?export=view&id=1OK_QQ9pB0wynYeu4auXtTEgYMyYCh2C-",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499059/limonada_yzu18m.jpg",
     ingredientes: [
       "1 taza de jugo de limón fresco",
       "1 litro de agua fría",
@@ -551,7 +551,7 @@ const platosPeruanos = [
     nombre: "Emoliente",
     categoria: "bebida",
     descripcion: "Bebida tradicional peruana a base de hierbas, cebada y linaza, consumida caliente y conocida por sus propiedades medicinales.",
-    imagen: "https://drive.google.com/uc?export=view&id=1Y2zIeYJijhYN_ZxHoQboDWHukmpaIVPO",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499065/emoliente_ozklr3.jpg",
     ingredientes: [
       "2 litros de agua",
       "1/4 taza de cebada perlada",
@@ -576,7 +576,7 @@ const platosPeruanos = [
     nombre: "Masato",
     categoria: "bebida",
     descripcion: "Bebida amazónica fermentada a base de yuca, tradicional en la selva peruana.",
-    imagen: "https://drive.google.com/uc?export=view&id=1YhxSIyvKNF2YuRlUm0AzI9H7kJRgbcEA",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499070/masato_pmiuzs.jpg",
     ingredientes: [
       "1 kg de yuca",
       "2 litros de agua",
@@ -597,7 +597,7 @@ const platosPeruanos = [
     nombre: "Arroz Zambito",
     categoria: "postre",
     descripcion: "Postre peruano similar al arroz con leche, con chancaca, pasas, coco rallado y especias que le dan un color y sabor característico.",
-    imagen: "https://drive.google.com/uc?export=view&id=1yf_yPm9cRiTyeZB1SYQAJhz1F3dKDlBx",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498969/arroz-sambito_cwsrum.jpg",
     ingredientes: [
       "1 taza de arroz de grano largo",
       "4 tazas de agua",
@@ -624,7 +624,7 @@ const platosPeruanos = [
     nombre: "Arroz con Leche",
     categoria: "postre",
     descripcion: "Clásico postre cremoso hecho con arroz, leche, azúcar y canela, muy popular en Perú y Latinoamérica.",
-    imagen: "https://drive.google.com/uc?export=view&id=15sr9SYmRdzuWCxk90L8kNP_mwHfo1mvX",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498972/arroz-leche_pibtgz.jpg",
     ingredientes: [
       "1 taza de arroz",
       "4 tazas de leche",
@@ -646,7 +646,7 @@ const platosPeruanos = [
     nombre: "Crema Volteada",
     categoria: "postre",
     descripcion: "Versión peruana del flan, dulce y suave a base de huevos, leche y azúcar caramelizada.",
-    imagen: "https://drive.google.com/uc?export=view&id=1dyiKrpqPZeve-8mBOBAD1plBJ1z93bLR",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498960/crema-volteada_bcvzpo.jpg",
     ingredientes: [
       "6 huevos",
       "1 lata de leche evaporada",
@@ -667,7 +667,7 @@ const platosPeruanos = [
     nombre: "Queso Helado",
     categoria: "postre",
     descripcion: "Postre frío típico de la región norte del Perú, hecho con leche, canela, clavo y coco rallado, con textura cremosa y granulada.",
-    imagen: "https://drive.google.com/uc?export=view&id=1c5wX-o2dKxwmo-S4rIT8iN8dv-1NHXlo",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498963/queso-helado_pl7er5.jpg",
     ingredientes: [
       "1 litro de leche",
       "300 g de azúcar",
@@ -689,7 +689,7 @@ const platosPeruanos = [
     nombre: "Flan",
     categoria: "postre",
     descripcion: "Postre clásico de huevo y leche con caramelo, suave y dulce, muy popular en la gastronomía peruana.",
-    imagen: "https://drive.google.com/uc?export=view&id=1ZIbdA7B7j4Zd2_ugTpBBe5S4vnD2nmq-",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498965/flan_ua1sfp.jpg",
     ingredientes: [
       "4 huevos",
       "1 taza de leche",
@@ -709,7 +709,7 @@ const platosPeruanos = [
     nombre: "Papa a la Huancaína",
     categoria: "entrada",
     descripcion: "Clásica entrada peruana de papas sancochadas cubiertas con una cremosa salsa a base de ají amarillo, queso fresco y galletas de soda.",
-    imagen: "https://drive.google.com/uc?export=view&id=1slKIiKgssJ48al8BZbR1VxhZ3srAhkIy",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498924/huanca%C3%ADna_zmqpeb.jpg",
     ingredientes: [
       "4 papas amarillas medianas",
       "3 ajíes amarillos sin venas ni pepas",
@@ -736,7 +736,7 @@ const platosPeruanos = [
     nombre: "Tamales Peruanos",
     categoria: "entrada",
     descripcion: "Delicioso tamal peruano hecho con masa de maíz, relleno de carne, aceitunas y especias, envuelto en hojas de plátano y cocido al vapor.",
-    imagen: "https://drive.google.com/uc?export=view&id=14slGZd2PVU71JwrQSavW5jCfppiXxJyb",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498927/tamal_lsm4lb.jpg",
     ingredientes: [
       "500 g de harina de maíz amarillo",
       "250 g de manteca de cerdo",
@@ -764,7 +764,7 @@ const platosPeruanos = [
     nombre: "Choclo con Queso",
     categoria: "entrada",
     descripcion: "Sencilla y tradicional entrada peruana que combina choclo cocido con queso fresco, ideal para acompañar cualquier comida.",
-    imagen: "https://drive.google.com/uc?export=view&id=1qAD6MQgzdV4xFknetAYea8QOdYdsfhrA",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498926/choclo_vmi1ui.jpg",
     ingredientes: [
       "2 choclos grandes",
       "200 g de queso fresco",
@@ -782,7 +782,7 @@ const platosPeruanos = [
     nombre: "Wantanes Fritos",
     categoria: "entrada",
     descripcion: "Crujientes bocados fritos rellenos de carne, pollo o verduras, muy populares como entrada o aperitivo en la gastronomía peruana.",
-    imagen: "https://drive.google.com/uc?export=view&id=1jVUluFFqMcCL1gjlrjnT1jo6h62eYa6q",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498929/wantan_hl6rlt.jpg",
     ingredientes: [
       "20 hojas de wantán",
       "200 g de carne molida o pollo deshilachado",
@@ -805,7 +805,7 @@ const platosPeruanos = [
     nombre: "Chilcano de Pescado",
     categoria: "entrada",
     descripcion: "Caldo ligero y sabroso hecho con pescado fresco, aromatizado con hierbas y especias, ideal como entrada en la costa peruana.",
-    imagen: "https://drive.google.com/uc?export=view&id=1CIzKorZIBrvMpeIDfORc6hDEYz9WcYbu",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498929/chilcano_hytsdd.jpg",
     ingredientes: [
       "500 g de pescado fresco (merluza, corvina o similar)",
       "1 cebolla picada",
@@ -832,7 +832,7 @@ const platosPeruanos = [
     nombre: "Caldo de Gallina",
     categoria: "caldo",
     descripcion: "Sopa tradicional peruana hecha con gallina criolla, verduras y fideos, muy reconfortante y nutritiva.",
-    imagen: "https://drive.google.com/uc?export=view&id=1zTvQaFvbMxukX2_3m_IL4H2ITlg7Icr_",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499039/caldo-gallina_yeqtrz.jpg",
     ingredientes: [
       "1 gallina criolla cortada en presas",
       "2 litros de agua",
@@ -861,7 +861,7 @@ const platosPeruanos = [
     nombre: "Menestrón",
     categoria: "caldo",
     descripcion: "Sopa de origen italiano muy popular en Perú, con verduras, legumbres, fideos y carne, nutritiva y reconfortante.",
-    imagen: "https://drive.google.com/uc?export=view&id=18SIQoNx5XXRATzx4z7Rc_cDm5WYf7bjO",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499040/menestron_vqegst.jpg",
     ingredientes: [
       "200 g de carne de res en trozos",
       "1 cebolla picada",
@@ -894,7 +894,7 @@ const platosPeruanos = [
     nombre: "Parihuela",
     categoria: "caldo",
     descripcion: "Caldo concentrado de mariscos variados, típico de la costa peruana, muy sabroso y picante.",
-    imagen: "https://drive.google.com/uc?export=view&id=1AM0y7WrF6TzUti9HD7vrbAx2YUaCtRjH",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499040/parihuela_wyqgz9.jpg",
     ingredientes: [
       "300 g de pescado fresco",
       "200 g de camarones",
@@ -923,7 +923,7 @@ const platosPeruanos = [
     nombre: "Patasca",
     categoria: "caldo",
     descripcion: "Sopa andina tradicional hecha con maíz mote, carne de res y mondongo, ideal para el frío de la sierra.",
-    imagen: "https://drive.google.com/uc?export=view&id=112N0QjQWw-c1RyDgX6bWU-__fSvqReKq",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499040/patasca_yvdo1z.jpg",
     ingredientes: [
       "500 g de carne de res (falda o costilla)",
       "300 g de mondongo limpio y cortado",
@@ -949,7 +949,7 @@ const platosPeruanos = [
     nombre: "Sancochado",
     categoria: "caldo",
     descripcion: "Plato contundente y nutritivo de la costa peruana, con caldo de res y variedad de verduras cocidas.",
-    imagen: "https://drive.google.com/uc?export=view&id=1m84e9U7J8lK7Vop-jdBlp6cRHs08wXD4",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499040/sancochado_ifxkcj.jpg",
     ingredientes: [
       "500 g de carne de res con hueso",
       "2 litros de agua",
@@ -976,7 +976,7 @@ const platosPeruanos = [
     nombre: "Arroz con Pollo",
     categoria: "principal",
     descripcion: "Clásico plato peruano de arroz verde al cilantro cocinado con presas de pollo y verduras, acompañado de salsa criolla.",
-    imagen: "https://drive.google.com/uc?export=view&id=1wOHHy9JcrsuoNYe1CZhZJaltDtWGY2i8",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499021/arroz-pollo_h3yrkp.jpg",
     ingredientes: [
       "5 presas de pollo",
       "3 tazas de arroz lavado",
@@ -1007,7 +1007,7 @@ const platosPeruanos = [
     nombre: "Carapulcra Limeña",
     categoria: "principal",
     descripcion: "Guiso tradicional peruano hecho con papa seca, carne de cerdo, ajíes y especias, típico de Lima.",
-    imagen: "https://drive.google.com/uc?export=view&id=1gxag_MlYAzc3jZPEnpUKR0lKiShfvHlj",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499000/carapulcra_w9gsrp.jpg",
     ingredientes: [
       "300 g de papa seca remojada",
       "500 g de carne de cerdo cortada en trozos",
@@ -1036,7 +1036,7 @@ const platosPeruanos = [
     nombre: "Cuy Chactado",
     categoria: "principal",
     descripcion: "Plato tradicional andino que consiste en cuy frito crocante, sazonado con especias y servido con papas y salsa.",
-    imagen: "https://drive.google.com/uc?export=view&id=1xlJgwNW4I1bFVGOqMb0xxCmysw322XJU",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499021/cuy-chactado_xeva7v.jpg",
     ingredientes: [
       "1 cuy limpio y abierto",
       "Sal y pimienta al gusto",
@@ -1059,7 +1059,7 @@ const platosPeruanos = [
     nombre: "Adobo Arequipeño",
     categoria: "principal",
     descripcion: "Guiso tradicional de cerdo marinado en chicha de jora y especias, típico de la región de Arequipa.",
-    imagen: "https://drive.google.com/uc?export=view&id=1TVLJ0N-tXVUgcA6sGvrs3MJhEjPkMfVr",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498996/adobo-arequipe%C3%B1o_tc5xxc.jpg",
     ingredientes: [
       "1 kg de carne de cerdo en trozos",
       "1 taza de chicha de jora",
@@ -1083,7 +1083,7 @@ const platosPeruanos = [
     nombre: "Olluquito con Carne",
     categoria: "principal",
     descripcion: "Guiso tradicional andino hecho con olluco, carne de res y especias, acompañado con arroz o papas.",
-    imagen: "https://drive.google.com/uc?export=view&id=195G0L6Kpq5fqLtNDcLJ8MhszC6zaHTa4",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499012/olluquito-carne_ituwaw.jpg",
     ingredientes: [
       "500 g de olluco pelado y cortado en tiras",
       "300 g de carne de res cortada en trozos",
@@ -1109,7 +1109,7 @@ const platosPeruanos = [
     nombre: "Arroz Chaufa",
     categoria: "principal",
     descripcion: "Plato fusión chino-peruana hecho con arroz salteado, verduras, huevo y carne o pollo.",
-    imagen: "https://drive.google.com/uc?export=view&id=1KG5uHF1ELzIWv2NZZsC-ePq3QOJ6Pv-M",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747498997/arroz-chaufa_ebutaf.jpg",
     ingredientes: [
       "3 tazas de arroz cocido",
       "2 huevos batidos",
@@ -1136,7 +1136,7 @@ const platosPeruanos = [
     nombre: "Tacacho con Cecina",
     categoria: "principal",
     descripcion: "Plato típico de la selva peruana que combina puré de plátano verde con cecina ahumada y frita.",
-    imagen: "https://drive.google.com/uc?export=view&id=1AlBxNi8WJcOqDKAJdKp6pODeb3pT9DWh",
+    imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747499016/tacacho-cecina_lwxayx.jpg",
     ingredientes: [
       "4 plátanos verdes",
       "200 g de cecina ahumada",
