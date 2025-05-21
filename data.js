@@ -1152,6 +1152,1333 @@ const platosPeruanos = [
       "Servir el tacacho acompañado de la cecina."
     ]
   },
+{
+  id: 43,
+  nombre: "Agua de Muña",
+  categoria: "bebida",
+  descripcion: "Infusión andina refrescante hecha con hojas de muña, ideal para aliviar malestares digestivos y disfrutar de un sabor herbal único.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869169/mu%C3%B1a_dakl64.jpg",
+  ingredientes: [
+    "1 litro de agua",
+    "1 rama grande de muña fresca o 2 cucharadas de hojas secas",
+    "Miel o azúcar al gusto",
+    "Rodajas de limón (opcional)"
+  ],
+  preparacion: [
+    "Hervir el agua en una olla.",
+    "Agregar las hojas de muña y dejar hervir por 5 minutos.",
+    "Retirar del fuego y dejar reposar 5 minutos más.",
+    "Colar la infusión y endulzar al gusto.",
+    "Servir caliente o fría, decorando con rodajas de limón si se desea."
+  ]
+},
+{
+  id: 44,
+  nombre: "Jugo de Maracuyá",
+  categoria: "bebida",
+  descripcion: "Bebida tropical refrescante y ligeramente ácida, preparada con pulpa de maracuyá fresca.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869163/maracuya_gxsvgz.jpg",
+  ingredientes: [
+    "1 taza de pulpa de maracuyá",
+    "1 litro de agua fría",
+    "1/2 taza de azúcar (ajustar al gusto)",
+    "Cubos de hielo"
+  ],
+  preparacion: [
+    "Licuar la pulpa de maracuyá con el agua y el azúcar.",
+    "Colar la mezcla para eliminar las semillas.",
+    "Servir en vasos con hielo."
+  ]
+},
+{
+  id: 45,
+  nombre: "Jugo de Lúcuma",
+  categoria: "bebida",
+  descripcion: "Delicioso jugo cremoso elaborado con lúcuma, una fruta peruana de sabor dulce y suave.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869166/lucuma_tuony4.jpg",
+  ingredientes: [
+    "2 lúcumas maduras",
+    "1 litro de leche fría",
+    "1/3 taza de azúcar (ajustar al gusto)",
+    "Cubos de hielo"
+  ],
+  preparacion: [
+    "Pelar y despepitar las lúcumas.",
+    "Licuar la pulpa con la leche y el azúcar.",
+    "Servir bien frío con hielo."
+  ]
+},
+{
+  id: 46,
+  nombre: "Agua de Cebada",
+  categoria: "bebida",
+  descripcion: "Bebida tradicional peruana a base de cebada tostada, refrescante y nutritiva.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869171/cebada_i23fcz.jpg",
+  ingredientes: [
+    "1 taza de cebada perlada",
+    "2 litros de agua",
+    "1 rama de canela",
+    "1/2 taza de azúcar",
+    "Jugo de 1 limón"
+  ],
+  preparacion: [
+    "Lavar la cebada y hervirla con el agua y la canela durante 45 minutos.",
+    "Colar y agregar el azúcar y el jugo de limón.",
+    "Enfriar y servir."
+  ]
+},
+{
+  id: 47,
+  nombre: "Coctel Machu Picchu",
+  categoria: "bebida",
+  descripcion: "Colorido cóctel peruano con capas de granadina, jugo de naranja, licor de menta y pisco.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869163/machu-picchu_e3ho3j.jpg",
+  ingredientes: [
+    "1 oz de granadina",
+    "2 oz de jugo de naranja",
+    "1 oz de pisco",
+    "1 oz de licor de menta",
+    "Cubos de hielo"
+  ],
+  preparacion: [
+    "En un vaso largo, colocar la granadina.",
+    "Agregar hielo y verter el jugo de naranja lentamente.",
+    "Añadir el pisco y, por último, el licor de menta para crear capas de colores.",
+    "Servir sin mezclar para apreciar los colores."
+  ]
+},
+{
+  id: 48,
+  nombre: "Pisco Tonic",
+  categoria: "bebida",
+  descripcion: "Refrescante cóctel peruano que combina pisco con agua tónica y un toque de limón.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869167/Pisco-Tonic_ab349y.jpg",
+  ingredientes: [
+    "2 oz de pisco",
+    "Agua tónica al gusto",
+    "Rodajas de limón",
+    "Cubos de hielo"
+  ],
+  preparacion: [
+    "Llenar un vaso con hielo.",
+    "Agregar el pisco y completar con agua tónica.",
+    "Decorar con rodajas de limón y servir."
+  ]
+},
+{
+  id: 49,
+  nombre: "Aguajina",
+  categoria: "bebida",
+  descripcion: "Bebida amazónica dulce y nutritiva preparada con pulpa de aguaje, agua y azúcar.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869164/aguajina_fuhkrn.jpg",
+  ingredientes: [
+    "1 taza de pulpa de aguaje",
+    "1 litro de agua fría",
+    "1/2 taza de azúcar (ajustar al gusto)",
+    "Cubos de hielo"
+  ],
+  preparacion: [
+    "Disolver la pulpa de aguaje en el agua.",
+    "Agregar el azúcar y mezclar bien.",
+    "Servir fría con hielo."
+  ]
+},
+{
+  id: 50,
+  nombre: "Refresco de Algarrobina",
+  categoria: "bebida",
+  descripcion: "Bebida típica del norte peruano, hecha con algarrobina, leche y canela, de sabor dulce y energético.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869169/algarroba_fdzvc6.jpg",
+  ingredientes: [
+    "1/4 taza de algarrobina",
+    "1 litro de leche",
+    "1/2 taza de azúcar",
+    "1 cucharadita de canela en polvo",
+    "Cubos de hielo"
+  ],
+  preparacion: [
+    "Mezclar la algarrobina, la leche, el azúcar y la canela en una jarra.",
+    "Batir bien hasta que todo esté integrado.",
+    "Servir con hielo."
+  ]
+},
+{
+  id: 51,
+  nombre: "Chupe de Camarones",
+  categoria: "caldo",
+  descripcion: "Sopa emblemática del sur peruano, cremosa y sustanciosa, preparada con camarones, papas, leche y queso.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869574/chupe-camarones_r0pyzk.jpg",
+  ingredientes: [
+    "500 g de camarones limpios",
+    "8 rebanadas de pan blanco sin orillas",
+    "240 ml de leche",
+    "120 ml de crema",
+    "1 cebolla",
+    "1 pimentón rojo",
+    "1 pimentón verde",
+    "2 papas",
+    "1 choclo",
+    "1 huevo",
+    "Aceite, sal y pimienta al gusto"
+  ],
+  preparacion: [
+    "Remojar el pan en leche y reservar.",
+    "Sofreír cebolla y pimientos picados.",
+    "Agregar papas, choclo y los camarones.",
+    "Incorporar el pan remojado, crema y cocinar hasta espesar.",
+    "Añadir huevo y servir con queso fresco."
+  ]
+},
+{
+  id: 52,
+  nombre: "Sopa de Sémola",
+  categoria: "caldo",
+  descripcion: "Sopa ligera y nutritiva de sémola y verduras, ideal para una comida reconfortante.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869575/sopa-semola_qu5aym.jpg",
+  ingredientes: [
+    "1 pechuga de pollo",
+    "1 litro de agua",
+    "Zapallo, apio, zanahoria, poro, choclo, papa blanca",
+    "1/2 taza de sémola",
+    "Kion (jengibre)",
+    "Sal al gusto"
+  ],
+  preparacion: [
+    "Hervir el pollo y retirar impurezas.",
+    "Agregar las verduras y sazonar.",
+    "Cocinar 20 minutos y añadir kion.",
+    "Incorporar la sémola en forma de lluvia, moviendo constantemente.",
+    "Cocinar 5 minutos y servir caliente."
+  ]
+},
+{
+  id: 53,
+  nombre: "Caldo de Pata",
+  categoria: "caldo",
+  descripcion: "Caldo tradicional andino preparado con patas de res, garbanzos, mote y vegetales.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869573/caldo-pata_crnjxw.jpg",
+  ingredientes: [
+    "2 patas de res",
+    "3 ramas de cebolla blanca",
+    "1 pimiento verde",
+    "5 dientes de ajo",
+    "1 libra de mote",
+    "1 libra de garbanzo",
+    "Sal y pimienta",
+    "Cilantro"
+  ],
+  preparacion: [
+    "Cocinar las patas con cebolla, pimiento y ajo por 2 horas.",
+    "Retirar huesos, cortar la carne y colar el caldo.",
+    "Agregar garbanzos y mote, hervir 30 minutos.",
+    "Sazonar y servir con cilantro picado."
+  ]
+},
+{
+  id: 54,
+  nombre: "Sopa de Morón",
+  categoria: "caldo",
+  descripcion: "Sopa nutritiva de la sierra peruana, elaborada con trigo morón, carne, papas y verduras.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869577/sopa-moron_ii1exo.jpg",
+  ingredientes: [
+    "250 g de trigo morón",
+    "2-3 papas blancas",
+    "1 papa amarilla",
+    "Zanahoria, zapallo, apio, poro",
+    "1 rama de hierbabuena",
+    "2 litros de agua",
+    "1/2 kg de pecho de res",
+    "Sal y pimienta"
+  ],
+  preparacion: [
+    "Hervir la carne con hierbabuena 40 minutos.",
+    "Agregar el morón y cocinar 30 minutos.",
+    "Añadir papas y verduras, cocinar hasta que estén suaves.",
+    "Sazonar y servir decorado con cebolla china y culantro."
+  ]
+},
+{
+  id: 55,
+  nombre: "Patachi",
+  categoria: "caldo",
+  descripcion: "Sopa andina espesa con trigo, menestras, tubérculos y carnes, típica de Ayacucho y Huancavelica.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869571/patachi_rpqfyu.jpg",
+  ingredientes: [
+    "1 kg de carne con hueso",
+    "Trozo de pellejo o cerdo",
+    "6 pimientas negras",
+    "5 dientes de ajo",
+    "200 g de trigo",
+    "Alverjas secas partidas",
+    "Chuño",
+    "Apio, zanahoria, papas",
+    "Sal y orégano"
+  ],
+  preparacion: [
+    "Remojar trigo y alverjas desde la noche anterior.",
+    "Cocinar carne y cerdo con pimienta y ajo.",
+    "Agregar trigo, habas y chuño, cocinar 1 hora.",
+    "Añadir verduras y papas, cocinar 15 minutos.",
+    "Sazonar y servir con orégano y perejil."
+  ]
+},
+{
+  id: 56,
+  nombre: "Inchicapi",
+  categoria: "caldo",
+  descripcion: "Sopa amazónica de gallina, maní y yuca, espesa y aromática, tradicional de la selva peruana.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869574/inchicapi_hatpy0.jpg",
+  ingredientes: [
+    "4 presas de gallina",
+    "1.5 litros de agua",
+    "200 g de maní tostado",
+    "1 cucharada de ajo",
+    "1 cebolla",
+    "2 ajíes dulces",
+    "100 g de harina de maíz",
+    "12 hojas de sacha culantro",
+    "Palillo",
+    "Sal"
+  ],
+  preparacion: [
+    "Hervir la gallina en agua con sal por 1 hora.",
+    "Licuara palillo, sacha culantro, ajo, ajíes, cebolla y maní.",
+    "Agregar harina de maíz disuelta y la mezcla licuada al caldo.",
+    "Cocinar 10 minutos, sazonar y servir."
+  ]
+},
+{
+  id: 57,
+  nombre: "Sopa de Cangrejo",
+  categoria: "caldo",
+  descripcion: "Sopa marina con cangrejos, vegetales y especias, muy popular en la costa.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869574/sopa-cangrejo_vkxefu.jpg",
+  ingredientes: [
+    "10 cangrejos",
+    "2 cucharadas de aceite de achiote",
+    "1 cebolla morada",
+    "2 ramas de cebolla larga",
+    "2 dientes de ajo",
+    "1 pimiento verde",
+    "Sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír cebollas, ajo y pimiento en aceite de achiote.",
+    "Agregar cangrejos limpios y cubrir con agua.",
+    "Cocinar hasta que los cangrejos estén listos.",
+    "Rectificar sazón y servir."
+  ]
+},
+{
+  id: 58,
+  nombre: "Caldo de Cabeza",
+  categoria: "caldo",
+  descripcion: "Caldo tradicional preparado con cabeza de cordero, papas y hierbas, típico de la sierra.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869569/caldo-cabeza_nil8ox.jpg",
+  ingredientes: [
+    "1 cabeza de cordero",
+    "4 papas",
+    "3 cebollas",
+    "1 limón",
+    "2 ajíes",
+    "Hierbabuena",
+    "Sal"
+  ],
+  preparacion: [
+    "Limpiar y cortar la cabeza en presas.",
+    "Hervir en agua 10 minutos.",
+    "Agregar papas, ajíes y sal, cocinar 5 minutos.",
+    "Añadir cebollas y limón, cocinar 5 minutos más.",
+    "Servir con hierbabuena picada."
+  ]
+},
+{
+  id: 59,
+  nombre: "Chupe de Habas",
+  categoria: "caldo",
+  descripcion: "Sopa cremosa y espesa de habas, papas, huevo y queso, tradicional de los Andes.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869574/chupe-habas_nxkku4.jpg",
+  ingredientes: [
+    "3 papas blancas en cubos",
+    "2 huevos",
+    "1/2 taza de queso fresco",
+    "3/4 taza de leche evaporada",
+    "1 cucharada de ajo",
+    "1 taza de habas peladas",
+    "Sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír ajo, agregar papas y habas.",
+    "Cubrir con agua y cocinar hasta que las papas estén suaves.",
+    "Añadir leche, queso y huevos batidos.",
+    "Cocinar hasta espesar y servir."
+  ]
+},
+{
+  id: 60,
+  nombre: "Sopa Wantán",
+  categoria: "caldo",
+  descripcion: "Sopa china-peruana con wantanes rellenos, pollo, verduras y fideos.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869576/sopa-wantan_h21ua0.jpg",
+  ingredientes: [
+    "12 wantanes rellenos",
+    "1 pechuga de pollo",
+    "1 litro de caldo de pollo",
+    "Fideos chinos",
+    "Zanahoria y nabo en tiras",
+    "Cebolla china",
+    "Sal y sillao"
+  ],
+  preparacion: [
+    "Hervir el caldo con pollo y verduras.",
+    "Agregar fideos y wantanes, cocinar hasta que suban.",
+    "Sazonar con sillao y servir con cebolla china."
+  ]
+},
+{
+  id: 61,
+  nombre: "Sopa Seca",
+  categoria: "caldo",
+  descripcion: "Plato criollo de la costa, mezcla de fideos guisados con carne y salsa de culantro.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869575/sopa-seca_du1dhl.jpg",
+  ingredientes: [
+    "400 g de fideos",
+    "500 g de carne de res o pollo",
+    "1 cebolla",
+    "2 dientes de ajo",
+    "1 taza de culantro licuado",
+    "Ají panca",
+    "1 taza de caldo",
+    "Sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír ajo, cebolla y ají panca.",
+    "Agregar carne y dorar.",
+    "Incorporar culantro y caldo.",
+    "Añadir fideos y cocinar hasta que absorban el líquido.",
+    "Servir con salsa criolla."
+  ]
+},
+{
+  id: 62,
+  nombre: "Sopa de Choros",
+  categoria: "caldo",
+  descripcion: "Sopa marina con choros (mejillones), papas, arroz y verduras, típica de la costa.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869575/sopa-de-choros_trm5tb.jpg",
+  ingredientes: [
+    "1 kg de choros limpios",
+    "2 papas",
+    "1/2 taza de arroz",
+    "1 cebolla",
+    "1 tomate",
+    "Ajo, sal y pimienta",
+    "Perejil"
+  ],
+  preparacion: [
+    "Sofreír ajo, cebolla y tomate.",
+    "Agregar choros, papas y arroz.",
+    "Cubrir con agua y cocinar hasta que todo esté suave.",
+    "Sazonar y servir con perejil."
+  ]
+},
+{
+  id: 63,
+  nombre: "Chairo",
+  categoria: "caldo",
+  descripcion: "Sopa altiplánica con carne, chuño, verduras y hierbas, tradicional del sur andino.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869569/chairo_htagyc.jpg",
+  ingredientes: [
+    "250 g de carne de res",
+    "100 g de chuño",
+    "Papas, zanahoria, apio",
+    "1/2 taza de habas",
+    "1/2 taza de trigo",
+    "Hierba buena, orégano",
+    "Sal y pimienta"
+  ],
+  preparacion: [
+    "Cocinar la carne con trigo y verduras.",
+    "Agregar chuño y habas, cocinar hasta que todo esté suave.",
+    "Sazonar y servir con hierbas."
+  ]
+},
+{
+  id: 64,
+  nombre: "Sopa a Minuta",
+  categoria: "caldo",
+  descripcion: "Sopa rápida peruana con carne molida, fideos, leche y huevo.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869580/sopa_a_la_minuta_svufa5.jpg",
+  ingredientes: [
+    "200 g de carne molida",
+    "1 cebolla",
+    "2 dientes de ajo",
+    "1 tomate",
+    "100 g de fideos",
+    "1 huevo",
+    "1 taza de leche evaporada",
+    "Sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír ajo, cebolla y tomate.",
+    "Agregar carne y dorar.",
+    "Añadir agua y fideos, cocinar hasta que estén listos.",
+    "Incorporar leche y huevo batido.",
+    "Sazonar y servir."
+  ]
+},
+{
+  id: 65,
+  nombre: "Puchero",
+  categoria: "caldo",
+  descripcion: "Caldo abundante con carnes, verduras y tubérculos, típico de fiestas en la sierra.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747869572/puchero_zdlncj.jpg",
+  ingredientes: [
+    "500 g de carne de res",
+    "500 g de cerdo",
+    "1 pollo",
+    "Papas, camote, yuca",
+    "Col, zanahoria, choclo",
+    "Garbanzos",
+    "Sal y hierbas"
+  ],
+  preparacion: [
+    "Cocinar las carnes en agua.",
+    "Agregar tubérculos y verduras.",
+    "Incorporar garbanzos y cocinar hasta que todo esté suave.",
+    "Sazonar y servir caliente."
+  ]
+},
+{
+  id: 66,
+  nombre: "Leche Asada",
+  categoria: "postre",
+  descripcion: "Postre clásico peruano con textura cremosa y costra dorada, hecho con leche, huevos, azúcar y esencia de vainilla, horneado a baño María.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870263/leche-asada_kcvpag.jpg",
+  ingredientes: [
+    "1 litro de leche fresca",
+    "6 huevos",
+    "300 g de azúcar",
+    "1 cucharadita de esencia de vainilla"
+  ],
+  preparacion: [
+    "Precalentar el horno a 180 °C.",
+    "Batir los huevos ligeramente.",
+    "Agregar la leche caliente, el azúcar y la esencia de vainilla, mezclar bien.",
+    "Verter la mezcla en moldes individuales o uno grande acaramelado.",
+    "Hornear a baño María durante 45 a 60 minutos hasta que cuaje y se forme una costra dorada.",
+    "Dejar enfriar y servir."
+  ]
+},
+{
+  id: 67,
+  nombre: "Pastel de Choclo",
+  categoria: "postre",
+  descripcion: "Postre tradicional hecho con choclo molido, azúcar y canela, horneado hasta dorar, con sabor dulce y textura suave.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870276/pastel-choclo_smhfa7.jpg",
+  ingredientes: [
+    "6 choclos desgranados",
+    "1 taza de azúcar",
+    "1 cucharadita de canela en polvo",
+    "1 cucharada de mantequilla"
+  ],
+  preparacion: [
+    "Licuar el choclo con un poco de agua hasta obtener una mezcla homogénea.",
+    "Agregar el azúcar y la canela, mezclar bien.",
+    "Verter en un molde engrasado con mantequilla.",
+    "Hornear a 180 °C por 40 minutos hasta que esté dorado.",
+    "Dejar enfriar y servir."
+  ]
+},
+{
+  id: 68,
+  nombre: "Dulce de Quinua",
+  categoria: "postre",
+  descripcion: "Postre nutritivo a base de quinua cocida en leche con azúcar, canela y clavo, con textura cremosa y sabor dulce.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870286/dulce-quinua_cwpzi1.jpg",
+  ingredientes: [
+    "1 taza de quinua",
+    "1 litro de leche",
+    "200 g de azúcar",
+    "1 rama de canela",
+    "2 clavos de olor"
+  ],
+  preparacion: [
+    "Lavar la quinua y cocinar en agua hasta que esté suave.",
+    "Agregar la leche, azúcar, canela y clavos.",
+    "Cocinar a fuego medio removiendo hasta espesar.",
+    "Retirar la canela y clavos, dejar enfriar y servir."
+  ]
+},
+{
+  id: 69,
+  nombre: "Mazamorra de Calabaza",
+  categoria: "postre",
+  descripcion: "Postre tradicional hecho con puré de calabaza, azúcar, canela y clavo, con textura suave y dulce.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870266/mazamorra-calabaza_pmbsjk.jpg",
+  ingredientes: [
+    "500 g de calabaza pelada y picada",
+    "1 litro de agua",
+    "300 g de azúcar",
+    "1 rama de canela",
+    "2 clavos de olor"
+  ],
+  preparacion: [
+    "Hervir la calabaza en agua hasta que esté blanda.",
+    "Licuar o hacer puré la calabaza.",
+    "Volver a cocinar con azúcar, canela y clavos hasta espesar.",
+    "Retirar especias y servir frío o tibio."
+  ]
+},
+{
+  id: 70,
+  nombre: "Mazamorra de Durazno",
+  categoria: "postre",
+  descripcion: "Postre dulce y suave elaborado con duraznos frescos, azúcar y especias, ideal para disfrutar frío.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870265/mazamorra-de-durazno_itfdzx.jpg",
+  ingredientes: [
+    "500 g de duraznos pelados y picados",
+    "1 litro de agua",
+    "300 g de azúcar",
+    "1 rama de canela",
+    "2 clavos de olor"
+  ],
+  preparacion: [
+    "Hervir los duraznos en agua hasta que estén suaves.",
+    "Agregar azúcar, canela y clavos, cocinar hasta espesar.",
+    "Retirar especias y dejar enfriar.",
+    "Servir frío."
+  ]
+},
+{
+  id: 71,
+  nombre: "Mazamorra de Quinua",
+  categoria: "postre",
+  descripcion: "Postre andino cremoso hecho con quinua, leche, azúcar y especias, con sabor dulce y textura suave.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870281/mazamorra-de-quinua_oaqmyt.jpg",
+  ingredientes: [
+    "1 taza de quinua",
+    "1 litro de leche",
+    "300 g de azúcar",
+    "1 rama de canela",
+    "2 clavos de olor"
+  ],
+  preparacion: [
+    "Lavar y cocinar la quinua hasta que esté suave.",
+    "Agregar leche, azúcar, canela y clavos.",
+    "Cocinar a fuego medio hasta espesar.",
+    "Retirar especias y servir frío o tibio."
+  ]
+},
+{
+  id: 72,
+  nombre: "Natilla Piurana",
+  categoria: "postre",
+  descripcion: "Postre tradicional de Piura hecho con leche, azúcar y canela, con textura cremosa y sabor dulce.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870273/natilla-piurana_ipfxku.jpg",
+  ingredientes: [
+    "1 litro de leche",
+    "250 g de azúcar",
+    "1 rama de canela",
+    "1 cucharadita de esencia de vainilla"
+  ],
+  preparacion: [
+    "Hervir la leche con la canela.",
+    "Agregar azúcar y cocinar hasta que espese ligeramente.",
+    "Retirar la canela y añadir la vainilla.",
+    "Dejar enfriar y servir."
+  ]
+},
+{
+  id: 73,
+  nombre: "Chocotejas",
+  categoria: "postre",
+  descripcion: "Dulce tradicional peruano de masa rellena de manjar blanco y cubierto con chocolate o azúcar glas.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870276/chocotejas_anzczw.jpg",
+  ingredientes: [
+    "200 g de manjar blanco",
+    "100 g de chocolate para cobertura",
+    "200 g de harina",
+    "100 g de mantequilla",
+    "Azúcar glas para decorar"
+  ],
+  preparacion: [
+    "Preparar una masa con harina y mantequilla.",
+    "Formar discos y rellenar con manjar blanco.",
+    "Cerrar y sellar los dulces.",
+    "Cubrir con chocolate derretido o espolvorear azúcar glas.",
+    "Dejar secar y servir."
+  ]
+},
+{
+  id: 74,
+  nombre: "Mazamorra de Tocosh",
+  categoria: "postre",
+  descripcion: "Postre tradicional hecho con tocosh (papa fermentada), azúcar y especias, con sabor característico y textura espesa.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870268/mazamorra-de-tocosh_zmglvd.jpg",
+  ingredientes: [
+    "1 taza de tocosh",
+    "1 litro de agua",
+    "300 g de azúcar",
+    "1 rama de canela",
+    "2 clavos de olor"
+  ],
+  preparacion: [
+    "Lavar y cocinar los tocosh en agua hasta que estén suaves.",
+    "Agregar azúcar, canela y clavos.",
+    "Cocinar hasta espesar.",
+    "Retirar especias y servir."
+  ]
+},
+{
+  id: 75,
+  nombre: "Turrones",
+  categoria: "postre",
+  descripcion: "Dulce tradicional peruano hecho con maní, azúcar y miel, con textura crocante y sabor dulce.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870281/turron_exj7pv.jpg",
+  ingredientes: [
+    "500 g de maní tostado y pelado",
+    "300 g de azúcar",
+    "100 g de miel",
+    "1 cucharadita de esencia de vainilla"
+  ],
+  preparacion: [
+    "Calentar azúcar y miel hasta formar un almíbar.",
+    "Agregar el maní y la vainilla, mezclar bien.",
+    "Verter sobre una superficie engrasada y dejar enfriar.",
+    "Cortar en cuadros y servir."
+  ]
+},
+{
+  id: 76,
+  nombre: "Mazamorra de Piña",
+  categoria: "postre",
+  descripcion: "Postre dulce y refrescante hecho con piña, azúcar y especias, con textura suave y sabor tropical.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870268/mazamorra-de-pi%C3%B1a_ry1umy.jpg",
+  ingredientes: [
+    "500 g de piña picada",
+    "1 litro de agua",
+    "300 g de azúcar",
+    "1 rama de canela",
+    "2 clavos de olor"
+  ],
+  preparacion: [
+    "Hervir la piña en agua hasta que esté blanda.",
+    "Agregar azúcar, canela y clavos, cocinar hasta espesar.",
+    "Retirar especias y dejar enfriar.",
+    "Servir frío."
+  ]
+},
+{
+  id: 77,
+  nombre: "Mazamorra de Zapallo",
+  categoria: "postre",
+  descripcion: "Postre tradicional hecho con zapallo, azúcar y especias, con textura cremosa y sabor dulce.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870269/mazamorra-de-zapallo_sniswt.jpg",
+  ingredientes: [
+    "500 g de zapallo pelado y picado",
+    "1 litro de agua",
+    "300 g de azúcar",
+    "1 rama de canela",
+    "2 clavos de olor"
+  ],
+  preparacion: [
+    "Hervir el zapallo en agua hasta que esté blando.",
+    "Licuar o hacer puré el zapallo.",
+    "Cocinar con azúcar, canela y clavos hasta espesar.",
+    "Retirar especias y servir frío o tibio."
+  ]
+},
+{
+  id: 78,
+  nombre: "Champús",
+  categoria: "postre",
+  descripcion: "Postre tradicional de frutas, maíz morado y especias, muy popular en la costa y sierra peruana.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870265/champu_dvdevj.jpg",
+  ingredientes: [
+    "1 taza de maíz morado",
+    "1 litro de agua",
+    "1 taza de piña picada",
+    "1 taza de membrillo picado",
+    "1 taza de guayaba picada",
+    "Azúcar al gusto",
+    "Canela y clavos"
+  ],
+  preparacion: [
+    "Hervir el maíz morado con canela y clavos para hacer la base.",
+    "Agregar las frutas picadas y azúcar.",
+    "Cocinar a fuego medio hasta que las frutas estén suaves.",
+    "Dejar enfriar y servir frío."
+  ]
+},
+{
+  id: 79,
+  nombre: "Papa Rellena",
+  categoria: "entrada",
+  descripcion: "Clásico plato peruano que consiste en una masa de papa rellena con carne sazonada, huevo duro, pasas y aceitunas, frita hasta dorar, servido con salsa criolla.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870959/papa-rellena_zfhzi6.jpg",
+  ingredientes: [
+    "1 kg de papas (blancas y amarillas)",
+    "500 g de carne molida",
+    "1 cebolla picada",
+    "3 dientes de ajo picados",
+    "1 cucharada de pasta de ají panca",
+    "1 cucharada de pasta de tomate",
+    "Sal, pimienta, comino y orégano al gusto",
+    "2 huevos duros picados",
+    "½ taza de pasas",
+    "½ taza de aceitunas negras picadas",
+    "1 huevo crudo para la masa",
+    "Harina para rebozar",
+    "Aceite para freír",
+    "Salsa criolla para acompañar"
+  ],
+  preparacion: [
+    "Cocer las papas con piel hasta que estén tiernas, pelarlas y prensarlas aún calientes.",
+    "Dejar enfriar y agregar el huevo crudo, salpimentar y amasar hasta obtener una masa homogénea.",
+    "En una sartén con aceite, sofreír cebolla, ajo, pasta de ají panca y pasta de tomate.",
+    "Agregar la carne molida, sazonar con sal, pimienta, comino y orégano, cocinar hasta dorar.",
+    "Incorporar huevo duro, pasas y aceitunas, mezclar y retirar del fuego.",
+    "Formar bolas con la masa de papa, hacer un hueco en el centro y rellenar con la mezcla de carne.",
+    "Cerrar y dar forma ovalada, pasar por harina y luego por huevo batido.",
+    "Freír en aceite caliente hasta dorar por todos lados.",
+    "Escurrir en papel absorbente y servir con salsa criolla."
+  ]
+},
+{
+  id: 80,
+  nombre: "Salchipollo",
+  categoria: "entrada",
+  descripcion: "Plato popular peruano que combina salchichas fritas con trozos de pollo, acompañado de papas fritas y salsa criolla.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870958/salchipollo_cpoepv.jpg",
+  ingredientes: [
+    "300 g de pollo en trozos",
+    "300 g de salchichas cortadas en rodajas",
+    "Papas fritas",
+    "Aceite para freír",
+    "Sal y pimienta",
+    "Salsa criolla para acompañar"
+  ],
+  preparacion: [
+    "Sazonar el pollo con sal y pimienta y freír hasta dorar.",
+    "Freír las salchichas en rodajas hasta que estén doradas.",
+    "Freír papas a la francesa.",
+    "Mezclar pollo, salchichas y papas, servir acompañado de salsa criolla."
+  ]
+},
+{
+  id: 81,
+  nombre: "Triple Arequipeño",
+  categoria: "entrada",
+  descripcion: "Delicioso plato de Arequipa que combina tres tipos de carnes sazonadas y fritas, acompañado de papas y salsa criolla.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870958/triple-arequipe%C3%B1o_midlkd.jpg",
+  ingredientes: [
+    "200 g de carne de res",
+    "200 g de carne de cerdo",
+    "200 g de pollo",
+    "Papas fritas",
+    "Sal, pimienta y ajo",
+    "Salsa criolla"
+  ],
+  preparacion: [
+    "Sazonar las carnes con sal, pimienta y ajo.",
+    "Freír cada carne por separado hasta dorar.",
+    "Servir las carnes juntas con papas fritas y salsa criolla."
+  ]
+},
+{
+  id: 82,
+  nombre: "Huevos a la Rusa",
+  categoria: "entrada",
+  descripcion: "Huevos rellenos con una mezcla de atún, mayonesa y vegetales, decorados y servidos fríos como entrada.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870881/huevo-rusa_tia2zl.jpg",
+  ingredientes: [
+    "6 huevos cocidos",
+    "1 lata de atún",
+    "Mayonesa",
+    "Cebolla picada",
+    "Pimiento picado",
+    "Sal y pimienta",
+    "Aceitunas para decorar"
+  ],
+  preparacion: [
+    "Pelar y cortar los huevos cocidos por la mitad, retirar las yemas.",
+    "Mezclar las yemas con atún, mayonesa, cebolla, pimiento, sal y pimienta.",
+    "Rellenar las claras con la mezcla.",
+    "Decorar con aceitunas y servir frío."
+  ]
+},
+{
+  id: 83,
+  nombre: "Canchita Serrana",
+  categoria: "entrada",
+  descripcion: "Maíz chulpe tostado típico de la sierra peruana, crujiente y salado, ideal para acompañar platos o como snack.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870881/canchita_ughefz.jpg",
+  ingredientes: [
+    "1 taza de maíz chulpe",
+    "Aceite",
+    "Sal al gusto"
+  ],
+  preparacion: [
+    "Calentar aceite en sartén.",
+    "Agregar el maíz y tostar hasta que revienten y estén dorados.",
+    "Escurrir y salar al gusto.",
+    "Servir como acompañante o snack."
+  ]
+},
+{
+  id: 84,
+  nombre: "Pan con Chicharrón",
+  categoria: "entrada",
+  descripcion: "Sándwich peruano tradicional con chicharrón de cerdo crocante, servido en pan francés con camote frito y salsa criolla.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870881/pan-con-chicharron_sfh6gd.jpg",
+  ingredientes: [
+    "500 g de panceta de cerdo",
+    "Pan francés",
+    "Camote frito",
+    "Cebolla roja",
+    "Jugo de limón",
+    "Sal y pimienta",
+    "Aceite para freír"
+  ],
+  preparacion: [
+    "Sazonar la panceta y freír hasta que esté crocante.",
+    "Preparar salsa criolla con cebolla, limón, sal y pimienta.",
+    "Armar el sándwich con pan, chicharrón, camote frito y salsa criolla.",
+    "Servir inmediatamente."
+  ]
+},
+{
+  id: 85,
+  nombre: "Papa a la Diabla",
+  categoria: "entrada",
+  descripcion: "Plato picante de papas sancochadas bañadas en una salsa roja picante hecha con ajíes y especias.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870916/papa-diabla_nusgmg.jpg",
+  ingredientes: [
+    "4 papas sancochadas",
+    "2 ajíes amarillos",
+    "1 diente de ajo",
+    "1 cebolla pequeña",
+    "1 tomate",
+    "Aceite",
+    "Sal y pimienta"
+  ],
+  preparacion: [
+    "Licuar ajíes, ajo, cebolla y tomate.",
+    "Sofreír la mezcla en aceite, sazonar con sal y pimienta.",
+    "Bañar las papas sancochadas con la salsa y servir."
+  ]
+},
+{
+  id: 86,
+  nombre: "Papita con Huevo",
+  categoria: "entrada",
+  descripcion: "Plato sencillo y nutritivo que combina papas sancochadas con huevo sancochado, servido con salsa criolla o ají.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870957/papita-con-huevo_k3fvwz.jpg",
+  ingredientes: [
+    "4 papas sancochadas",
+    "4 huevos sancochados",
+    "Salsa criolla o ají al gusto"
+  ],
+  preparacion: [
+    "Servir papas sancochadas con huevos sancochados pelados.",
+    "Acompañar con salsa criolla o ají.",
+    "Servir inmediatamente."
+  ]
+},
+{
+  id: 87,
+  nombre: "Ceviche de Tarwi",
+  categoria: "entrada",
+  descripcion: "Ceviche andino hecho con tarwi (lupino), cebolla, ají y jugo de limón, servido frío como entrada refrescante.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870881/ceviche-tarwi_smyek0.jpg",
+  ingredientes: [
+    "1 taza de tarwi cocido",
+    "1 cebolla roja en juliana",
+    "2 limones (jugo)",
+    "Ají amarillo picado",
+    "Sal y pimienta",
+    "Cilantro picado"
+  ],
+  preparacion: [
+    "Mezclar el tarwi con cebolla, ají y cilantro.",
+    "Agregar jugo de limón, sal y pimienta al gusto.",
+    "Dejar reposar 10 minutos y servir frío."
+  ]
+},
+{
+  id: 88,
+  nombre: "Yuyo Frito",
+  categoria: "entrada",
+  descripcion: "Plato costeño que consiste en yuyo (alga marina) frito hasta quedar crujiente, servido como snack o acompañamiento.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870959/yuyo-frito_ghtfsk.jpg",
+  ingredientes: [
+    "200 g de yuyo fresco",
+    "Aceite para freír",
+    "Sal al gusto"
+  ],
+  preparacion: [
+    "Lavar y escurrir el yuyo.",
+    "Freír en aceite caliente hasta que esté crujiente.",
+    "Escurrir y salar al gusto.",
+    "Servir como snack o acompañante."
+  ]
+},
+{
+  id: 89,
+  nombre: "Picante de Yuyo",
+  categoria: "entrada",
+  descripcion: "Plato tradicional con yuyo marino cocido en salsa picante de ajíes, cebolla y especias.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870958/picante-yuyo_mbh14s.jpg",
+  ingredientes: [
+    "300 g de yuyo fresco",
+    "1 cebolla picada",
+    "2 ajíes amarillos",
+    "2 dientes de ajo",
+    "Aceite",
+    "Sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír cebolla, ajo y ají amarillo en aceite.",
+    "Agregar el yuyo y cocinar hasta que esté tierno.",
+    "Sazonar con sal y pimienta y servir caliente."
+  ]
+},
+{
+  id: 90,
+  nombre: "Brochetas de Pollo",
+  categoria: "entrada",
+  descripcion: "Brochetas de trozos de pollo marinados y asados, servidas con salsa y acompañamientos.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870878/brochetas-pollo_gywsoy.jpg",
+  ingredientes: [
+    "500 g de pollo en cubos",
+    "2 cucharadas de salsa de soja",
+    "1 cucharada de ajo picado",
+    "Jugo de 1 limón",
+    "Sal y pimienta",
+    "Palitos para brochetas"
+  ],
+  preparacion: [
+    "Marinar el pollo con salsa de soja, ajo, limón, sal y pimienta por 30 minutos.",
+    "Ensartar los cubos de pollo en los palitos.",
+    "Asar en parrilla o sartén hasta que estén cocidos y dorados.",
+    "Servir con salsa al gusto."
+  ]
+},
+{
+  id: 91,
+  nombre: "Caigua Rellena",
+  categoria: "entrada",
+  descripcion: "Plato típico andino que consiste en caigua (pepino andino) rellena con carne sazonada, gratinada con queso.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870884/caigua-rellena_qb8pua.jpg",
+  ingredientes: [
+    "6 caiguas",
+    "300 g de carne molida",
+    "1 cebolla picada",
+    "2 dientes de ajo",
+    "1 tomate picado",
+    "Queso rallado",
+    "Sal, pimienta y comino",
+    "Aceite"
+  ],
+  preparacion: [
+    "Cocer las caiguas y cortar por la mitad, retirar semillas.",
+    "Sofreír cebolla, ajo, tomate y carne molida, sazonar.",
+    "Rellenar las caiguas con la mezcla de carne.",
+    "Espolvorear queso rallado y gratinar en horno hasta dorar.",
+    "Servir caliente."
+  ]
+},
+{
+  id: 92,
+  nombre: "Rachi",
+  categoria: "entrada",
+  descripcion: "Plato tradicional andino a base de carne de res o cerdo cocida con especias y servido con papas o mote.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747870959/rachi_tc6eim.jpg",
+  ingredientes: [
+    "500 g de carne de res o cerdo",
+    "1 cebolla",
+    "2 dientes de ajo",
+    "Comino, orégano, sal y pimienta",
+    "Papas sancochadas o mote para acompañar"
+  ],
+  preparacion: [
+    "Cocer la carne con cebolla, ajo y especias hasta que esté tierna.",
+    "Cortar en trozos y servir con papas sancochadas o mote.",
+    "Acompañar con salsa criolla si se desea."
+  ]
+},
+{
+  id: 93,
+  nombre: "Pollo a la Brasa",
+  categoria: "principal",
+  descripcion: "Plato emblemático peruano de pollo marinado con especias y cerveza negra, asado lentamente para obtener una piel crocante y carne jugosa.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871363/pollo-brasa_nee5gz.jpg",
+  ingredientes: [
+    "1 pollo entero (aprox. 3 kg)",
+    "4 cucharadas de sal",
+    "1 cucharada de romero picado",
+    "1 cucharada de pimienta negra molida",
+    "1 cucharadita de comino",
+    "1 cucharada de orégano",
+    "2 cucharadas de ajo molido",
+    "1 cucharada de ají panca",
+    "1 vaso de cerveza negra",
+    "2 cucharadas de sillao (salsa de soja)",
+    "Mantequilla para pincelar"
+  ],
+  preparacion: [
+    "Sumergir el pollo en salmuera (agua con sal) y refrigerar por 8 horas.",
+    "Mezclar romero, pimienta, comino, orégano, ajo, ají panca, cerveza negra y sillao para preparar la marinada.",
+    "Escurrir el pollo, cubrirlo con la marinada, introduciendo la mezcla entre la piel y la carne.",
+    "Dejar reposar en refrigeración al menos 8 horas más, volteando ocasionalmente.",
+    "Colocar el pollo en una bandeja para horno, pincelar con mantequilla.",
+    "Hornear a 270 ºC durante 90 minutos, bañando con jugos y girando la bandeja cada 15-20 minutos.",
+    "Pincelar nuevamente con mantequilla 20 minutos antes de terminar para dorar la piel.",
+    "Retirar cuando la piel esté dorada y jugosa, servir acompañado de papas fritas y salsa de ají."
+  ]
+},
+{
+  id: 94,
+  nombre: "Pachamanca",
+  categoria: "principal",
+  descripcion: "Plato tradicional andino cocido en horno de tierra con piedras calientes, que incluye carnes, papas, habas y hierbas aromáticas.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871373/pachamanca_vxdtgh.jpg",
+  ingredientes: [
+    "Carne de res, cerdo, pollo y cordero",
+    "Papas, camote, habas, choclo",
+    "Hierbas aromáticas (huacatay, chincho)",
+    "Sal y ají",
+    "Piedras calientes"
+  ],
+  preparacion: [
+    "Marinar las carnes con sal, ají y hierbas.",
+    "Calentar piedras hasta que estén muy calientes.",
+    "En un hoyo en la tierra, colocar piedras calientes, luego las carnes y verduras.",
+    "Cubrir con hojas y tierra para cocinar al vapor durante varias horas.",
+    "Desenterrar y servir caliente."
+  ]
+},
+{
+  id: 95,
+  nombre: "Seco de Carne",
+  categoria: "principal",
+  descripcion: "Guiso tradicional peruano de carne de res cocida en salsa de cilantro, cerveza y ají amarillo, acompañado de arroz y frejoles.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871381/seco-carne_ydtaes.jpg",
+  ingredientes: [
+    "1 kg de carne de res en trozos",
+    "1 cebolla picada",
+    "2 tomates picados",
+    "1 taza de cilantro licuado",
+    "1 taza de cerveza negra",
+    "2 ajíes amarillos",
+    "2 dientes de ajo",
+    "Aceite, sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír cebolla, ajo y ají amarillo.",
+    "Agregar la carne y dorar.",
+    "Incorporar tomate, cilantro licuado y cerveza.",
+    "Cocinar a fuego lento hasta que la carne esté tierna y la salsa espese.",
+    "Servir con arroz blanco y frejoles."
+  ]
+},
+{
+  id: 96,
+  nombre: "Arroz con Camarones",
+  categoria: "principal",
+  descripcion: "Plato costeño que combina arroz sazonado con camarones, ají amarillo y especias, con un sabor intenso y textura cremosa.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871361/arroz-camarones_z4f2dn.jpg",
+  ingredientes: [
+    "500 g de camarones limpios",
+    "2 tazas de arroz",
+    "1 cebolla picada",
+    "2 dientes de ajo",
+    "1 ají amarillo",
+    "1 tomate picado",
+    "1 taza de caldo de pescado",
+    "Aceite, sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír cebolla, ajo y ají amarillo.",
+    "Agregar camarones y cocinar brevemente.",
+    "Incorporar tomate y arroz, mezclar bien.",
+    "Agregar caldo y cocinar hasta que el arroz esté listo y cremoso.",
+    "Sazonar y servir caliente."
+  ]
+},
+{
+  id: 97,
+  nombre: "Jalea Marina",
+  categoria: "principal",
+  descripcion: "Plato típico costeño que consiste en mariscos fritos crujientes acompañados de salsa criolla y yuca frita.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871363/jalea_efzi6p.jpg",
+  ingredientes: [
+    "500 g de mariscos surtidos (calamares, pescado, camarones)",
+    "Harina para rebozar",
+    "Aceite para freír",
+    "Cebolla, tomate, ají, limón para salsa criolla",
+    "Yuca frita"
+  ],
+  preparacion: [
+    "Limpiar y cortar los mariscos.",
+    "Rebozar con harina y freír en aceite caliente hasta dorar.",
+    "Preparar salsa criolla con cebolla, tomate, ají y limón.",
+    "Servir los mariscos fritos con salsa criolla y yuca frita."
+  ]
+},
+{
+  id: 98,
+  nombre: "Cau Cau",
+  categoria: "principal",
+  descripcion: "Guiso peruano de mondongo (callos) cortado en cubos, cocido con papas, ají amarillo y hierbas aromáticas.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871360/cau-cau_lfqoxn.jpg",
+  ingredientes: [
+    "500 g de mondongo limpio",
+    "2 papas cortadas en cubos",
+    "1 cebolla picada",
+    "2 dientes de ajo",
+    "1 ají amarillo",
+    "1 taza de caldo",
+    "Hierbas aromáticas (hierba buena, perejil)",
+    "Aceite, sal y pimienta"
+  ],
+  preparacion: [
+    "Cocer el mondongo hasta que esté tierno.",
+    "Sofreír cebolla, ajo y ají amarillo.",
+    "Agregar mondongo, papas y caldo.",
+    "Cocinar hasta que las papas estén suaves.",
+    "Añadir hierbas, sazonar y servir."
+  ]
+},
+{
+  id: 99,
+  nombre: "Juanes",
+  categoria: "principal",
+  descripcion: "Plato amazónico que consiste en arroz sazonado con especias, envuelto en hojas de bijao y cocido al vapor, generalmente con pollo o pescado.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871361/juanes_wkjo5y.jpg",
+  ingredientes: [
+    "2 tazas de arroz",
+    "1 pechuga de pollo cocida y desmenuzada",
+    "1 cebolla picada",
+    "2 dientes de ajo",
+    "1 ají amarillo",
+    "Hojas de bijao",
+    "Aceite, sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír cebolla, ajo y ají amarillo.",
+    "Agregar arroz y pollo, mezclar y sazonar.",
+    "Colocar la mezcla en hojas de bijao y envolver.",
+    "Cocer al vapor por 45 minutos.",
+    "Servir caliente."
+  ]
+},
+{
+  id: 100,
+  nombre: "Bistec a lo Pobre",
+  categoria: "principal",
+  descripcion: "Plato popular que combina bistec de res con arroz, papas fritas y huevos fritos, acompañado de plátanos maduros fritos.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871359/bistec-pobre_ud0v7b.jpg",
+  ingredientes: [
+    "2 bistecs de res",
+    "4 papas para freír",
+    "2 huevos",
+    "2 plátanos maduros",
+    "Aceite, sal y pimienta"
+  ],
+  preparacion: [
+    "Sazonar y freír los bistecs.",
+    "Freír las papas y plátanos maduros.",
+    "Freír los huevos.",
+    "Servir todo junto en un plato."
+  ]
+},
+{
+  id: 101,
+  nombre: "Escabeche de Pollo",
+  categoria: "principal",
+  descripcion: "Plato frío de pollo marinado en vinagre, ajíes y especias, acompañado de cebolla encurtida.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871382/escabeche-pollo_vliz1o.jpg",
+  ingredientes: [
+    "1 pollo entero cortado en presas",
+    "1 taza de vinagre",
+    "2 cebollas en juliana",
+    "2 ajíes amarillos",
+    "2 dientes de ajo",
+    "Aceite, sal y pimienta"
+  ],
+  preparacion: [
+    "Freír el pollo hasta dorar.",
+    "Preparar una mezcla con vinagre, ajíes, ajo y cebolla.",
+    "Marinar el pollo en esta mezcla y dejar reposar.",
+    "Servir frío con cebolla encurtida."
+  ]
+},
+{
+  id: 102,
+  nombre: "Seco de Cabrito",
+  categoria: "principal",
+  descripcion: "Guiso tradicional del norte peruano hecho con cabrito cocido en salsa de cilantro, cerveza y especias.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871364/seco-cabrito_fufjwc.jpg",
+  ingredientes: [
+    "1 kg de cabrito en trozos",
+    "1 cebolla picada",
+    "2 tomates picados",
+    "1 taza de cilantro licuado",
+    "1 taza de cerveza negra",
+    "2 dientes de ajo",
+    "Aceite, sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír cebolla y ajo.",
+    "Agregar cabrito y dorar.",
+    "Incorporar tomate, cilantro y cerveza.",
+    "Cocinar a fuego lento hasta que la carne esté tierna.",
+    "Servir con arroz o yuca."
+  ]
+},
+{
+  id: 103,
+  nombre: "Frito Trujillano",
+  categoria: "principal",
+  descripcion: "Plato típico de Trujillo que combina arroz, carne frita y salsa criolla, acompañado de plátanos fritos.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871361/frito-trujillano_wtxeva.jpg",
+  ingredientes: [
+    "1 taza de arroz cocido",
+    "300 g de carne de res frita",
+    "1 cebolla picada",
+    "2 tomates picados",
+    "Plátanos maduros fritos",
+    "Aceite, sal y pimienta"
+  ],
+  preparacion: [
+    "Freír cebolla y tomate para salsa criolla.",
+    "Mezclar arroz con salsa y carne frita.",
+    "Servir acompañado de plátanos fritos."
+  ]
+},
+{
+  id: 104,
+  nombre: "Locro de Zapallo",
+  categoria: "principal",
+  descripcion: "Sopa espesa y cremosa de zapallo, con queso fresco y hierbas, típica de la sierra peruana.",
+  imagen: "https://res.cloudinary.com/dlk4jsoqp/image/upload/v1747871362/locro-zapallo_nvoy1g.jpg",
+  ingredientes: [
+    "1 kg de zapallo pelado y picado",
+    "1 cebolla picada",
+    "2 dientes de ajo",
+    "200 g de queso fresco",
+    "1 taza de leche",
+    "Hierbas (perejil, huacatay)",
+    "Aceite, sal y pimienta"
+  ],
+  preparacion: [
+    "Sofreír cebolla y ajo.",
+    "Agregar zapallo y cocinar hasta ablandar.",
+    "Licuar la mezcla y volver a cocinar con leche y queso.",
+    "Sazonar y servir caliente."
+  ]
+}
 ];
 
 // Si no hay datos en localStorage, guardar los datos iniciales
